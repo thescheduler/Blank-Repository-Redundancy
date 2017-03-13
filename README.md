@@ -333,3 +333,4 @@
 13:36:22 13 03 2017 Doing nothing...
 13:30:15 13 03 2017 Starting JIRA-RNG
 14:00:19 13 03 2017 Stopping JIRA-RNG
+15:04:44 13 03 2017 Stopping JIRA-RNG . Restart instance.
