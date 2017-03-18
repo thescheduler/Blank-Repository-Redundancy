@@ -2756,3 +2756,4 @@
 22:45:47 17 03 2017 Stopping JIRA-RNG
 23:17:14 17 03 2017 Stopping JIRA-RNG
 23:45:05 17 03 2017 Stopping JIRA-RNG
+00:14:22 18 03 2017 It is the weekend. The app is offline.
